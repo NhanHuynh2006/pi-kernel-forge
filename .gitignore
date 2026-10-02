@@ -1,0 +1,14 @@
+*.ko
+*.o
+*.mod
+*.mod.c
+*.cmd
+Module.symvers
+modules.order
+*.img
+*.zip
+*.xz
+*.mp4
+wifi.env
+helloworld-x86
+helloworld-arm64
